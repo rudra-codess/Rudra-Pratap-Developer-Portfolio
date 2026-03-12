@@ -71,7 +71,7 @@ The project showcases my skills, projects, and technical expertise using modern 
 
 ### Hero Section
 
-![Hero](image/hero section.png>
+![Hero](<image/hero section.png>
 )
 
 ### Technical Ecosystem Section
